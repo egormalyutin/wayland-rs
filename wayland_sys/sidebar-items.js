@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":[["ffi_dispatch",1]],"mod":["client","common","cursor","egl","server"],"type":["gid_t","pid_t","uid_t"]};
