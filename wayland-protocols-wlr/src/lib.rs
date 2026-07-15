@@ -90,7 +90,7 @@ pub mod layer_shell {
     #[allow(missing_docs)]
     pub mod v1 {
         wayland_protocol!(
-            "./wlr-protocols/unstable/wlr-layer-shell-unstable-v1.xml",
+            "./wlr-layer-shell-unstable-v1-middle.xml",
             [wayland_protocols::xdg::shell]
         );
     }
